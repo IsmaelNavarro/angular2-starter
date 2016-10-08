@@ -1,0 +1,1 @@
+Starter repository for angular 2 projects based on the official documentation.
